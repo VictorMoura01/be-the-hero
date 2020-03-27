@@ -19,3 +19,4 @@ Projeto Be The Hero da Semana Omnistack da <a href="https://rocketseat.com.br/">
 * [React](https://en.reactjs.org/)
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.io/)
+* [Jest](https://jestjs.io/)
